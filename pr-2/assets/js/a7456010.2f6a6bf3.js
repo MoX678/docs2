@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmetacall_tutorial=self.webpackChunkmetacall_tutorial||[]).push([[235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

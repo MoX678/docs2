@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "MetaCall Docs",
+  title: "Test Preview CI",
   tagline: "Documentation for MetaCall",
   favicon: "img/metacall-logo.png",
 
